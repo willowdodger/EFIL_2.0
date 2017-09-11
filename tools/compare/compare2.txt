@@ -1,0 +1,8 @@
+Pole_ID      = 2
+Width        = 1280
+Height       = 1024
+Color_Mode   = 0
+Sensor_Scale = 1
+
+Tracking_ROI_Size = 4
+Ball_Template_Update = 0

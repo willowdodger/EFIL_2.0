@@ -1,0 +1,11 @@
+Config:
+Hostname = TUVALU
+
+BT:
+TS_Ball_Update_Threshold = 0.2
+
+BT:
+TS_Player_Search_Radius = 4
+
+BT:
+Ball_Template_Update = 0
